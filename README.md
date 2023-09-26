@@ -20,5 +20,6 @@
 
 #### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D로비 및 다중 방 입장형태 온라인 게임-00000?style=flat&logo=condaforge&logoColor=black"/>](https://github.com/jsh991226/ProjectHIM)
 
+제작 파트 : 기획, 맵 디자인, 인벤토리, 카메라 애니메이션, 파티클, 사운드
 </div>
 
