@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=black"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=black"/>
 
-<br/><br/>
+<br/>
 
 ## 🥇 참여 프로젝트 🥇
 
