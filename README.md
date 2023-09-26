@@ -7,7 +7,7 @@
 #### 대한민국 게임 업계에 이바지하고 싶은 게임 개발자 희망 학생입니다!
 
   
-## 💻 Tech Stack 💻
+## 💻 사용 가능 기술들 💻
 
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=black"/>
@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-## 🥇 Awesome Project 🥇
+## 🥇 참여 프로젝트 🥇
 
 
 #### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D로비 및 다중 방 입장형태 온라인 게임-00000?style=flat&logo=condaforge&logoColor=black"/>](https://github.com/jsh991226/ProjectHIM)
