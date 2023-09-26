@@ -4,7 +4,7 @@
 
 # 🛠현재 깃 공사중입니다🛠
 
-#### 잘하는 사람보다 잘아는 사람이 되고싶습니다
+#### 대한민국 게임 업계에 이바지하고 싶은 게임 개발자 희망 학생입니다!
 
   
 ## 💻 Tech Stack 💻
@@ -19,8 +19,6 @@
 
 
 #### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D로비 및 다중 방 입장형태 온라인 게임-00000?style=flat&logo=condaforge&logoColor=black"/>](https://github.com/jsh991226/ProjectHIM)
-#### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D 멀티 리듬게임-FA243C?style=flat&logo=applemusic&logoColor=black"/>](https://github.com/jsh991226/dotWPublic) 
-
 
 </div>
 
